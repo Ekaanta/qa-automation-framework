@@ -1,3 +1,3 @@
 BASE_URL = "https://practicesoftwaretesting.com"
-EMAIL = "kohani9893@gopicta.com"
+EMAIL = "lydutojo@mailinator.com"
 PASSWORD = "196608:y4Y9ABVS+shj"
